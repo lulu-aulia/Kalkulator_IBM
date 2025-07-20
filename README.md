@@ -33,7 +33,8 @@ Kalkulator BMI adalah aplikasi berbasis web yang dirancang untuk menghitung Inde
 ---
 
 ### 🌐 Link Demo Proyek (Live)  
-🔗 [Klik untuk mencoba aplikasi Kalkulator BMI](https://your-netlify-link.netlify.app)  
+🔗 [Klik untuk mencoba aplikasi Kalkulator BMI](https://chimerical-strudel-66807c.netlify.app
+)  
 *(Ganti dengan link Netlify kamu)*
 
 ---
@@ -43,12 +44,6 @@ Kalkulator BMI adalah aplikasi berbasis web yang dirancang untuk menghitung Inde
 2. Masukkan tinggi badan dalam sentimeter (contoh: 160)  
 3. Klik tombol **Hitung BMI**  
 4. Lihat hasil BMI dan status tubuh di bawah tombol
-
----
-
-### 📸 Tampilan Proyek  
-*(Opsional: tambahkan screenshot proyek di sini jika ingin menampilkan preview)*  
-![preview](screenshot.png)
 
 ---
 
