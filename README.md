@@ -35,7 +35,7 @@ Kalkulator BMI adalah aplikasi berbasis web yang dirancang untuk menghitung Inde
 ### 🌐 Link Demo Proyek (Live)  
 🔗 [Klik untuk mencoba aplikasi Kalkulator BMI](https://chimerical-strudel-66807c.netlify.app
 )  
-*(Ganti dengan link Netlify kamu)*
+
 
 ---
 
